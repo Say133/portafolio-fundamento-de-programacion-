@@ -26,9 +26,14 @@ Asignar varios valores a una variable
 x, y,z= 10, 4, 5
 ```
 # Operadores básicos
-
 ### Suma
-
+"+" Adición entre los operadores
+```python
+sum1=3
+sum2=4
+print(sum1+sum2)
+output= 7
+ejercicio 2
 ### Resta
 
 ### Multiplicación
