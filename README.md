@@ -6,13 +6,13 @@ Python es un lenguaje de programación de alto nivel, orientado a objetos, con u
 En algunos lenguajes de programación, a manera de analogía las variables se pueden entender como "cajas" en las cuales se guardan los datos. 
 
 ## Nombrando una variable
-MANERA CORRECTA DE NOMBRAR UNA VARIABLE
+MANERA CORRECTA DE NOMBRAR UNA VARIABLE.
 _variable
 variable1
 variable
 vari_able
 var1able
-LA MANERA INCORRECTA DE NOMBRAR UNA VARIABLE 
+LA MANERA INCORRECTA DE NOMBRAR UNA VARIABLE. 
 1variable
 vari able
 vari-able
