@@ -1,4 +1,4 @@
-# portafolio fundamento de programacion
+# portafolio fundamento de programación
 # Qué es Python?
 Python es un lenguaje de programación de alto nivel, orientado a objetos, con una semántica dinámica integrada, principalmente para el desarrollo web y de aplicaciones informáticas. Es una aplicación muy fácil de utilizar, es la mas recomendable para  personas que recién estan empezando en el mundo de la programación.
 
@@ -6,11 +6,24 @@ Python es un lenguaje de programación de alto nivel, orientado a objetos, con u
 En algunos lenguajes de programación, a manera de analogía las variables se pueden entender como "cajas" en las cuales se guardan los datos. 
 
 ## Nombrando una variable
-edad
+MANERA CORRECTA DE NOMBRAR UNA VARIABLE
+_variable
+variable1
+variable
+vari_able
+var1able
+LA MANERA INCORRECTA DE NOMBRAR UNA VARIABLE 
+1variable
+vari able
+vari-able
 
 ## Asignando valores a una variable
 ```python
 edad = 19
+```
+Asignar varios valores a una variable
+```python
+x, y,z= 10, 4, 5
 ```
 # Operadores básicos
 
