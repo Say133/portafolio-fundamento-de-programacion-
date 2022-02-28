@@ -42,17 +42,51 @@ print(suma_edades)
 outout=94
 ````
 ### Resta
-
+"-"sustracciòn de valores
+````python
+r1= 4
+r2= 2
+print(r1-r2)
+output= 2 
+````
+ejercicio 2
+````python
+x=6
+x=3
+x=6-3
+print(x)
+output= 3
+````
 ### Multiplicación
+"*"Multiplicación entre los operadores
+````python
+m1=4
+m2=2
+print(m1*m2)
+output= 8
+````
 
 ### División
-
+````python
+"/"Division entre los operadores
+d1=8
+d2=2
+print(d1/d2)
+output= 4
+````
 ### Módulo
+"%" módulo entre los operadores
+````python
+d1=7
+d2=2
+print(d1/d2)
+output=1
+````
 
 # Tipos de datos en Python
 
 ## Integer
-
+integer o enteros, este cambia el formato a un número entero 
 ## Float
 
 ## String
