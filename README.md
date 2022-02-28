@@ -1,5 +1,6 @@
-## portafolio fundamento de programacion
+# portafolio fundamento de programacion
 # Qué es Python?
+Python es un lenguaje de programación de alto nivel, orientado a objetos, con una semántica dinámica integrada, principalmente para el desarrollo web y de aplicaciones informáticas.
 
 # Qué es una variable?
 
