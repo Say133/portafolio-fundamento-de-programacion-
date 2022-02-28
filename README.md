@@ -31,7 +31,7 @@ x, y,z= 10, 4, 5
 ```python
 sum1=3
 sum2=4
-print(sum1+sum2)
+print(sum1+sum2) 
 output=7
 ````
 ejercicio 2
