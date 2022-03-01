@@ -106,26 +106,28 @@ Hay dos tipos de cast o conversión de tipos que se pueden hacer :
 Conversión implícita: Es realizada automáticamente por Python. Sucede cuando realizamos ciertas operaciones con dos tipos distintos.
 ejemplo:
 ````python
+1
 a = 7
 print(type(a))  
- 
+2
 b = 3.0
 print(type(b))  
-  
+3  
 c = a + b  
 print(c)  
 print(type(c)) 
-  
+4  
 d = a * b 
 print(d) 
 print(type(d))
+
 output
-<clase 'int'>
-<clase 'flotar'>
-10.0
-<clase 'flotar'>
-21,0
-<clase 'flotar'>
+1. <clase 'int'>
+2. <clase 'flotar'>
+    10.0
+3. <clase 'flotar'>
+    21,0
+4. <clase 'flotar'>
 Conversión explícita: Es realizada expresamente por nosotros, como por ejemplo convertir de str a int con str().
 ## List
 
