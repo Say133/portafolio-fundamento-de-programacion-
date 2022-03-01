@@ -123,26 +123,48 @@ print(type(d))
 
 output
 1. <clase 'int'>
-2. <clase 'flotar'>
+2. <clase 'float'>
     10.0
-3. <clase 'flotar'>
+3. <clase 'float'>
     21,0
-4. <clase 'flotar'>
+4. <clase 'float'>
+````
 Conversión explícita: Es realizada expresamente por nosotros, como por ejemplo convertir de str a int con str().
+````python
+a = 5
+n = float(a) 
+  
+print(n) 
+print(type(n))
+5,0
+<clase 'float'>
+````
 ## List
 
+
 ## Tuple
+Un tuple es una colección de datos cuyo orden es inalterable, o sea, son elementos ordenados en una secuencia específica y que posee importancia,a los tuple los escribimps en parentesis 
+````
+paises=("ecuador","perú","colombia")
+print(paises)
+````
 
 ## Dictionary
+Un Diccionario es una estructura de datos y un tipo de dato en Python con características especiales que nos permite almacenar cualquier tipo de valor como enteros, cadenas, listas e incluso otras funciones. Estos diccionarios nos permiten además identificar cada elemento por una clave.
 
 # Tomando decisiones
-
 ## Sentencia if
+
+
 
 ## Ciclo For
 
+
 ## Ciclo While
+
 
 ## Break
 
+
 ## Continue
+
