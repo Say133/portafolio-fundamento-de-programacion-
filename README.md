@@ -86,13 +86,47 @@ output=1
 # Tipos de datos en Python
 
 ## Integer
-integer o enteros, este cambia el formato a un número entero 
+Enteros o integer(int) son un tipo de datos que permite representar números enteros, es decir, positivos y negativos no decimales. 
+ejemplo 1
+````python
+````
+
+
 ## Float
+El tipo numérico float permite representar un número positivo o negativo con decimales, es decir, números reales.
 
 ## String
+Los cadenas (o strings) son un tipo de datos compuestos por secuencias de caracteres que representan texto. Estas cadenas de texto son de tipo str y se delimitan mediante el uso de comillas simples o dobles.
+por ejemplo:
+print("numero mayor")
 
 ## Casting en Python
-
+Hacer un cast o casting significa convertir un tipo de dato a otro. Anteriormente hemos visto tipos como los int, string o float. Pues bien, es posible convertir de un tipo a otro.
+Hay dos tipos de cast o conversión de tipos que se pueden hacer :
+Conversión implícita: Es realizada automáticamente por Python. Sucede cuando realizamos ciertas operaciones con dos tipos distintos.
+ejemplo:
+````python
+a = 7
+print(type(a))  
+ 
+b = 3.0
+print(type(b))  
+  
+c = a + b  
+print(c)  
+print(type(c)) 
+  
+d = a * b 
+print(d) 
+print(type(d))
+output
+<clase 'int'>
+<clase 'flotar'>
+10.0
+<clase 'flotar'>
+21,0
+<clase 'flotar'>
+Conversión explícita: Es realizada expresamente por nosotros, como por ejemplo convertir de str a int con str().
 ## List
 
 ## Tuple
