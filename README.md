@@ -48,20 +48,41 @@ suma_edades=sum(edades)
 print(suma_edades)
 outout=94
 ````
+Ejercicio 3
+````python
+a = 10
+b = 4
+c = 4.5
+print(a + b + c)
+
+Output= 18.5
+````
+
 ### Resta
 "-"sustracciòn de valores
 ````python
 r1= 4
 r2= 2
 print(r1-r2)
+
 output= 2 
 ````
-ejercicio 2
+Ejercicio 2
 ````python
-x=6
-x=3
-x=6-3
-print(x)
+a = 10
+b = 4
+c = 4.5
+print(a - b - c)
+
+output= 1.5
+
+ejercicio 3
+````python
+x1=6
+x2=3
+resta=6-3
+print(resta)
+
 output= 3
 ````
 ### Multiplicación
@@ -72,6 +93,25 @@ m2=2
 print(m1*m2)
 output= 8
 ````
+ejercicio 2
+````python
+a = 10
+b = 4
+c = 4.5
+print(a * b * c)
+
+output= 160
+````
+ejercicio 3
+````python
+a= 4
+b= 3
+x= 4*3
+print(x)
+
+output= 12
+````
+
 
 ### División
 ````python
@@ -81,6 +121,13 @@ d2=2
 print(d1/d2)
 output= 4
 ````
+ejercicio 2
+````python
+````
+ejercicio 3
+````python
+````
+
 ### Módulo
 "%" módulo entre los operadores
 ````python
@@ -88,6 +135,15 @@ d1=7
 d2=2
 print(d1/d2)
 output=1
+````
+### potencia
+"**" potencia entre operadores
+````python
+p1=4
+p2=2
+x= 4**2
+print(x)
+output= 16 
 ````
 
 # Tipos de datos en Python
