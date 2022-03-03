@@ -3,7 +3,7 @@
 Python es un lenguaje de programación de alto nivel, orientado a objetos, con una semántica dinámica integrada, principalmente para el desarrollo web y de aplicaciones informáticas. Es una aplicación muy fácil de utilizar, es la mas recomendable para  personas que recién estan empezando en el mundo de la programación.
 
 # Qué es una variable?
-En algunos lenguajes de programación, a manera de analogía las variables se pueden entender como "cajas" en las cuales se guardan  datos. 
+En algunos lenguajes de programación, a manera de analogía las variables se pueden entender como "cajas" en las cuales se guardan los datos. 
 
 ## Nombrando una variable
 MANERA CORRECTA DE NOMBRAR UNA VARIABLE.
@@ -35,51 +35,27 @@ Potencia'**'
 
 ### Suma
 "+" Adición entre los operadores
-```python
-sum1=3
-sum2=4
-print(sum1+sum2) 
-output=7
-````
 
 ### Resta
 "-"sustracciòn de valores
-````python
-r1= 4
-r2= 2
-print(r1-r2)
-
-output= 2 
-````
 
 ### Multiplicación
 "*"Multiplicación entre los operadores
-````python
-m1=4
-m2=2
-print(m1*m2)
-output= 8
-````
+
 
 ### División
-````python
-"/"Division entre los operadores
-d1=8
-d2=2
-print(d1/d2)
-output= 4
-````
+
 
 ### Módulo
 "%" módulo entre los operadores
-````python
-d1=7
-d2=2
-print(d1/d2)
-output=1
-````
+
 ### potencia
 "**" potencia entre operadores
+
+#Tipos de datos en Python
+
+## Integer
+Enteros o integer(int) son un tipo de datos que permite representar números enteros, es decir, positivos y negativos no decimales. 
 ````python
 p1=4
 p2=2
@@ -87,30 +63,24 @@ x= 4**2
 print(x)
 output= 16 
 ````
-
-#Tipos de datos en Python
-
-## Integer
-Enteros o integer(int) son un tipo de datos que permite representar números enteros, es decir, positivos y negativos no decimales. 
-ejemplo 1
-````python
-a = 23
-b = 2
-print("operacion = ",a+ b * a)
-
-output= 69
-````
-
 ## Float
 El tipo numérico float permite representar un número positivo o negativo con decimales, es decir, números reales.
+````
+0.43
+12.4
+
 
 
 ## String
 Los cadenas (o strings) son un tipo de datos compuestos por secuencias de caracteres que representan texto. Estas cadenas de texto son de tipo str y se delimitan mediante el uso de comillas simples o dobles.
-
 por ejemplo:
+```
+a="10"
+b="5"
+operación= a+b
+print("15")
 print("numero mayor")
-
+```
 ## Casting en Python
 Hacer un cast o casting significa convertir un tipo de dato a otro. Anteriormente hemos visto tipos como los int, string o float. Pues bien, es posible convertir de un tipo a otro.
 Hay dos tipos de cast o conversión de tipos que se pueden hacer :
