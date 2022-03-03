@@ -26,6 +26,13 @@ Asignar varios valores a una variable
 x, y,z= 10, 4, 5
 ```
 # Operadores básicos
+suma'+'
+Resta'-'
+Multiplicación'*'
+Dición'/'
+Módulo'%'
+Potencia'**' 
+
 ### Suma
 "+" Adición entre los operadores
 ```python
