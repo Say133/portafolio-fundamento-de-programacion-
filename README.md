@@ -3,7 +3,7 @@
 Python es un lenguaje de programación de alto nivel, orientado a objetos, con una semántica dinámica integrada, principalmente para el desarrollo web y de aplicaciones informáticas. Es una aplicación muy fácil de utilizar, es la mas recomendable para  personas que recién estan empezando en el mundo de la programación.
 
 # Qué es una variable?
-En algunos lenguajes de programación, a manera de analogía las variables se pueden entender como "cajas" en las cuales se guardan los datos. 
+En algunos lenguajes de programación, a manera de analogía las variables se pueden entender como "cajas" en las cuales se guardan  datos. 
 
 ## Nombrando una variable
 MANERA CORRECTA DE NOMBRAR UNA VARIABLE.
@@ -41,22 +41,6 @@ sum2=4
 print(sum1+sum2) 
 output=7
 ````
-ejercicio 2
-````python
-edades=12,13,14,22,12,10.11
-suma_edades=sum(edades)
-print(suma_edades)
-outout=94
-````
-Ejercicio 3
-````python
-a = 10
-b = 4
-c = 4.5
-print(a + b + c)
-
-Output= 18.5
-````
 
 ### Resta
 "-"sustracciòn de valores
@@ -67,24 +51,7 @@ print(r1-r2)
 
 output= 2 
 ````
-Ejercicio 2
-````python
-a = 10
-b = 4
-c = 4.5
-print(a - b - c)
 
-output= 1.5
-
-ejercicio 3
-````python
-x1=6
-x2=3
-resta=6-3
-print(resta)
-
-output= 3
-````
 ### Multiplicación
 "*"Multiplicación entre los operadores
 ````python
@@ -93,25 +60,6 @@ m2=2
 print(m1*m2)
 output= 8
 ````
-ejercicio 2
-````python
-a = 10
-b = 4
-c = 4.5
-print(a * b * c)
-
-output= 160
-````
-ejercicio 3
-````python
-a= 4
-b= 3
-x= 4*3
-print(x)
-
-output= 12
-````
-
 
 ### División
 ````python
@@ -120,15 +68,6 @@ d1=8
 d2=2
 print(d1/d2)
 output= 4
-````
-ejercicio 2
-````python
-````
-ejercicio 3
-````python
-a= 5
-b= 3
-
 ````
 
 ### Módulo
@@ -148,15 +87,6 @@ x= 4**2
 print(x)
 output= 16 
 ````
-ejercicio 2
-````python
-a=3+4
-b= 2
-print( a**b)
-
-output=49
-````
-
 
 #Tipos de datos en Python
 
@@ -171,13 +101,13 @@ print("operacion = ",a+ b * a)
 output= 69
 ````
 
-
 ## Float
 El tipo numérico float permite representar un número positivo o negativo con decimales, es decir, números reales.
 
 
 ## String
 Los cadenas (o strings) son un tipo de datos compuestos por secuencias de caracteres que representan texto. Estas cadenas de texto son de tipo str y se delimitan mediante el uso de comillas simples o dobles.
+
 por ejemplo:
 print("numero mayor")
 
