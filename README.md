@@ -156,15 +156,8 @@ print( a**b)
 
 output=49
 ````
-ejercicio 3
-`````python
-a= 5
-b= 3
-potencia= 5**3
-print(potencia)
 
-output= 125
-````
+
 #Tipos de datos en Python
 
 ## Integer
