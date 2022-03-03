@@ -126,6 +126,9 @@ ejercicio 2
 ````
 ejercicio 3
 ````python
+a= 5
+b= 3
+
 ````
 
 ### Módulo
@@ -145,18 +148,40 @@ x= 4**2
 print(x)
 output= 16 
 ````
+ejercicio 2
+````python
+a=3+4
+b= 2
+print( a**b)
 
-# Tipos de datos en Python
+output=49
+````
+ejercicio 3
+`````python
+a= 5
+b= 3
+potencia= 5**3
+print(potencia)
+
+output= 125
+````
+#Tipos de datos en Python
 
 ## Integer
 Enteros o integer(int) son un tipo de datos que permite representar números enteros, es decir, positivos y negativos no decimales. 
 ejemplo 1
 ````python
+a = 23
+b = 2
+print("operacion = ",a+ b * a)
+
+output= 69
 ````
 
 
 ## Float
 El tipo numérico float permite representar un número positivo o negativo con decimales, es decir, números reales.
+
 
 ## String
 Los cadenas (o strings) son un tipo de datos compuestos por secuencias de caracteres que representan texto. Estas cadenas de texto son de tipo str y se delimitan mediante el uso de comillas simples o dobles.
