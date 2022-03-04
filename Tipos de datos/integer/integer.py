@@ -12,7 +12,7 @@ c=int(a)+int(b)
 print(c)
 
 #ejercicio 3 
-x='20'
+x=2.5
 y=50
 mult=int(x)*y
 print(mult)
