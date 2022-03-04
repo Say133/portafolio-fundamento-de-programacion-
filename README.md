@@ -7,15 +7,19 @@ En algunos lenguajes de programación, a manera de analogía las variables se pu
 
 ## Nombrando una variable
 MANERA CORRECTA DE NOMBRAR UNA VARIABLE.
+````
 _variable
 variable1
 variable
 vari_able
 var1able
+````
 LA MANERA INCORRECTA DE NOMBRAR UNA VARIABLE. 
+````
 1variable
 vari able
 vari-able
+````
 
 ## Asignando valores a una variable
 ```python
