@@ -15,4 +15,8 @@ print("El máximo es " + str(max))
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 for i in range(1, 11):
     print(numbers[-i])
+    
 # ejercicio 3 
+vocales=['a', 'e', 'i', 'o', 'u']
+vocales[0] = 'a'
+print(vocales)
