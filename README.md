@@ -58,7 +58,7 @@ Potencia'**'
 ### potencia
 "**" potencia entre operadores
 
-#Tipos de datos en Python
+# Tipos de datos en Python
 
 ## Integer
 Enteros o integer(int) son un tipo de datos que permite representar números enteros, es decir, positivos y negativos no decimales. 
