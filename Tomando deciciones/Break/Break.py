@@ -11,3 +11,8 @@ for k in range(100):
     if k==5:
         break
  #ejercicio 3 
+for num in range(0, 10):
+    print(num)
+
+    if num == 6:
+        break
