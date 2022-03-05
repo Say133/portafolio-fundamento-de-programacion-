@@ -18,4 +18,12 @@ else:
     print("La divisa no está.")
     
 #Ejercicio 3
+diccionario = {
+"cartera": "Chanel",
+"zapatos": "Aquazzura",
+}
+
+print(diccionario)
+print(type(diccionario))
+
 
