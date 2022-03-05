@@ -40,23 +40,95 @@ Potencia'**'
 ````
 
 ### Suma
+````
 "+" Adición entre los operadores
-
+#creamos dos variables para poder realizar la operación  
+a = 2
+b = 5  
+#creamos una variable donde almacenaremos nuestra operación  
+result = 0  
+#presentamos las dos variables acompañadas del operador suma  
+result = (a + b)  
+result = 7  
+#presentamos un print para demostrar que nuestra operación sea correcta  
+print (result)
+````
 ### Resta
 "-"sustracciòn de valores
+````
+#creamos dos variables para poder realizar la operación  
+a = 5
+b = 4  
+#creamos una variable donde almacenaremos nuestra operación  
+result = 0  
+#presentamos las dos variables acompañadas del operador resta 
+result = (a - b)  
+result = 1  
+#presentamos un print para demostrar que nuestra operación sea correcta  
+print (result)
+````
 
 ### Multiplicación
 "*"Multiplicación entre los operadores
-
+````
+#creamos dos variables para poder realizar la operación  
+a = 5
+b = 4  
+#creamos una variable donde almacenaremos nuestra operación  
+result = 0  
+#presentamos las dos variables acompañadas del operador multiplicación
+result = (a * b)  
+result = 20
+#presentamos un print para demostrar que nuestra operación sea correcta  
+print (result)
+````
 
 ### División
 '/' divicion entre los operadore
+````
+#creamos dos variables para poder realizar la operación  
+a = 10
+b = 5 
+#creamos una variable donde almacenaremos nuestra operación  
+result = 0  
+#presentamos las dos variables acompañadas del operador división
+result = (a / b)  
+result =2
+#presentamos un print para demostrar que nuestra operación sea correcta  
+print (result)
+````
+
 
 ### Módulo
 "%" módulo entre los operadores
+````
+#creamos dos variables para poder realizar la operación  
+a = 20
+b = 0 
+#creamos una variable donde almacenaremos nuestra operación  
+result = 0  
+#presentamos las dos variables acompañadas del operador módulo
+result = (a % b)  
+result = 20
+#presentamos un print para demostrar que nuestra operación sea correcta  
+print (result)
+````
 
 ### potencia
 "**" potencia entre operadores
+````
+#creamos dos variables para poder realizar la operación  
+a = 2
+b = 2
+#creamos una variable donde almacenaremos nuestra operación  
+result = 0  
+#presentamos las dos variables acompañadas del operador resta 
+result = (a ** b)  
+result = 4
+#presentamos un print para demostrar que nuestra operación sea correcta  
+print (result)
+````
+
 
 # Tipos de datos en Python
 
