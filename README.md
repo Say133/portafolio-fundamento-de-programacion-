@@ -122,7 +122,7 @@ a = 2
 b = 2
 #creamos una variable donde almacenaremos nuestra operación  
 result = 0  
-#presentamos las dos variables acompañadas del operador resta 
+#presentamos las dos variables acompañadas del operador potencia
 result = (a ** b)  
 result = 4
 #presentamos un print para demostrar que nuestra operación sea correcta  
