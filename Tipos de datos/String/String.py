@@ -13,3 +13,7 @@ elif len(s)<100:
     print("este ensayo es corto!")
 
 #ejercicio 3
+cadena = "Hola Mundo"
+for letra in cadena:
+   print(letra)
+
