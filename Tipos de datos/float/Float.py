@@ -10,3 +10,8 @@ c= (float(a)-float(b))
 print(c)
 
 #ejemplo 3
+a= 24.45
+b=25.40
+c=50.15
+
+print ("Resultado:",a*c-b)
