@@ -10,3 +10,7 @@ for r in range (1,12):
     print(f"{r} x  {n} =  {r * n}")
    
 #ejercicio 3
+# Realizar un programa en donde se escriba una palabra y se repita 10 veces 
+palabra= input("Introduce una palabra: ")
+for i in range(10):
+    print(palabra)
