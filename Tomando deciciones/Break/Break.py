@@ -6,3 +6,8 @@ while True:
     if i==10:
        break
 #ejercicio 2
+for k in range(100):
+    print(k)
+    if k==5:
+        break
+ #ejercicio 3 
