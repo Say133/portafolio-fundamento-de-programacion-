@@ -13,5 +13,11 @@ while numero <= 6:
     numero = numero + 1
 print ("La suma es " + str(suma)
    
-   #ejercicio 3
+ #ejercicio 3
+      
+num = None 
+while num != 0:
+    num = int(input('Introduce un número: '))
+ 
        
+  
