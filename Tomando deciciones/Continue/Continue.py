@@ -11,6 +11,10 @@ while i<10:
     if i==7:
         continue
     print(i)
+    
 #ejercicio 3
-
+for k in range(11):
+    if k==5:
+        continue
+    print(k)
 
